@@ -1,0 +1,71 @@
+body {
+        margin: 0px;
+        background-color:wheat;
+        border: 0px solid white;   
+}
+
+h1 {
+      margin: 0;
+}
+
+img{
+        margin-left: 50px;
+        width:150px;
+        height:150px;
+    
+}
+
+.Cabeçalho{
+        border:10px solid #21022d;
+        background-color: #21022d;
+        margin: 0px;
+        text-align: center;
+        color: whitesmoke;
+        padding-right: 100px;
+}
+
+#Corpodapágina{
+    
+        padding-top: 30px;
+        text-align: left;
+        padding-left: 30px;
+        color: grey;
+}
+
+p{
+      padding-left: 50px;
+    
+}
+
+h3{
+        padding-top: 40px;
+        margin-left: 50px;  
+}
+
+.outrasvitaminas{
+        padding-top: 30px;
+        color: darkslateblue ;
+        padding-left: 200px;
+}
+
+.fotofinal{
+        
+        margin-left: 300px;
+        height: 300px; 
+        width: 700px;
+        border: 20px solid wheat;
+}
+
+.endereço{
+        margin: 0px;
+        border: 30px solid #21022d;
+        background-color: #21022d ;
+        text-align: center;
+        color: white;
+        padding-right: 220px;    
+}
+
+.conteudo{
+        margin: 0px;
+        border: 30px solid white;
+}
